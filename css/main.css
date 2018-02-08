@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+div, p, body, section, h1, h2
+{
+	padding: 0;
+  margin-bottom: 30px;
+}
+
+img
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	font-family: "Times New Roman", Helvetica, Sans-serif;
+	font-size: 20px;
+  text-align: center;
+}
+
+#siteContainer
+{
+	margin: 0 auto;
+	width: 960px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+h1, h2, p
+{
+  text-align: center;
+}
+
+ul, li, img
+{
+  list-style-type: none;
+}
+
+#foodImages li
+{
+  display: inline;
+  text-align: center;
+}
+
+#foodImages a
+{
+  display: block;
+}
+
+#name
+{
+  color: #36BD76;
+  background-color: #fff;
+}
+
+#introduction
+{
+  color: gray;
+  background-color: #fff;
+  padding-bottom: 50px;
+}
+
+#factList
+{
+  text-align: left;
+  color: gray;
+  background-color: #fff;
+  padding-bottom: 50px;
+}
+
+#food
+{
+  color: #36BD76;
+  background-color: #fff;
+}
+
+h1, h2
+{
+  color: #1C1501;
+  background-color: #fff;
+}
