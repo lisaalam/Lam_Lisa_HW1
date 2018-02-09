@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+.hidden
+{
+	display: none;
+}
+
 div, p, body, section, h1, h2
 {
 	padding: 0;
